@@ -1,0 +1,8 @@
+rows__row__sentence_good,rows__row__sentence_bad,log(P(S1)),log(P(S2)),log(P(S1)) > log(P(S2))
+I eat poha with tea ,I eat plate with tea,,,
+I ordered a cycle ,I ordered a wall,,,
+I gave him water,I gave him air,,,
+I eat a tablet ,I eat an ipad ,,,
+I and he  drank coffee together,I and he drank coffee mug together,,,
+He has 10 lakh ruppes in his bank ,He has 10 lakh cars  in his bank,,,
+He has calculator in his phone ,He has car in his phone ,,,
